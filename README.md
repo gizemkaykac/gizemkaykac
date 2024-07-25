@@ -38,7 +38,7 @@
 
 <br/>
 <hr/>
- <h2>🐍 My Contributions 🐍</h2>
+     <div align="center">         <h2>🐍 My Contributions 🐍</h2>
 <br>
 <div class="image-container">
   <picture>
@@ -56,7 +56,7 @@
     />
   </picture>
 </div>
-
+     </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
